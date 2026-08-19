@@ -1,10 +1,10 @@
-# c-137: Сценарная доска (Story Circle Board) 🔷 [Beta]
+# c-108: Сценарная доска (Story Circle Board) 🔷 [Beta]
 
 > Интерактивный сценарный бит-шит и редактор историй по 8-частному кругу Дэна Хармона с визуальной кривой эмоционального накала и картотекой персонажей.
 
 ![App interface](images/interface.png)
 
-**[▶ Open in browser — try it now](https://lexbayart.github.io/c-137/)**
+**[▶ Open in browser — try it now](https://lexbayart.github.io/c-108/)**
 No install. No account. Works offline.
 
 ---
@@ -13,7 +13,7 @@ No install. No account. Works offline.
 
 Большинство сценарных программ заставляют писать либо в линейном текстовом потоке, либо в плоских канбан-досках, не учитывающих драматическую структуру эпизода.
 
-«c-137» объединяет классический 8-частный круг историй Дэна Хармона (*Dan Harmon's Story Circle*) с интерактивным графиком эмоционального напряжения. Вы не просто раскладываете сцены по актам от «Зоны комфорта» до «Необратимого изменения», но и управляете кривой драматического накала каждой сцены на живом сплайне с маркерами кульминаций.
+«c-108» объединяет классический 8-частный круг историй Дэна Хармона (*Dan Harmon's Story Circle*) с интерактивным графиком эмоционального напряжения. Вы не просто раскладываете сцены по актам от «Зоны комфорта» до «Необратимого изменения», но и управляете кривой драматического накала каждой сцены на живом сплайне с маркерами кульминаций.
 
 Блочный редактор поддерживает профессиональную сквозную клавиатурную раскладку (Enter переводит имя персонажа в реплику, Tab вставляет ремарку, Enter из реплики переходит в действие). Каждое имя подтягивает персональное досье (цель, скрытая тайна, речевой голос) и автоматически считает баланс экранного времени и реплик.
 
@@ -42,7 +42,7 @@ No install. No account. Works offline.
 
 ## 🚀 Open it
 
-**[▶ lexbayart.github.io/c-137](https://lexbayart.github.io/c-137/)**
+**[▶ lexbayart.github.io/c-108](https://lexbayart.github.io/c-108/)**
 
 Or download `index.html` from this repo and open it locally —
 fully standalone, works without internet after first load.
@@ -72,7 +72,7 @@ This project is in active development.
 Found a bug or have an idea? Reach out:
 
 - **Telegram:** [@lexbay](https://t.me/lexbay)
-- **GitHub Issues:** [Open an issue](https://github.com/lexbayart/c-137/issues)
+- **GitHub Issues:** [Open an issue](https://github.com/lexbayart/c-108/issues)
 
 ---
 
